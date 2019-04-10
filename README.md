@@ -6,3 +6,4 @@ Die in der Analyse verwendeten Daten wurden vorgängig bearbeitet, diese Bearbei
 Die von der Universität Zürich veröffentlichen Transparenzlisten können hier heruntergeladen werden:
 https://www.uzh.ch/de/about/basics/transparency/grants/list.html
 https://www.uzh.ch/cmsssl/de/about/basics/transparency/endowed-professorships/list.html
+
